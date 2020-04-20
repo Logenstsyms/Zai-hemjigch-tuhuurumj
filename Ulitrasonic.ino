@@ -1,3 +1,5 @@
+//Logenstsyms Youtube сувагт нэгдсэн танд баярлалаа.//
+             /////Амжилт хүсье////
 
 #include<Wire.h>
 #include "rgb_lcd.h"
